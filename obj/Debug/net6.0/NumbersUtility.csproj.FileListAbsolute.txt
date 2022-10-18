@@ -1,0 +1,15 @@
+/media/tathurma/easystore/Code/NET6/NumbersUtility/bin/Debug/net6.0/NumbersUtility
+/media/tathurma/easystore/Code/NET6/NumbersUtility/bin/Debug/net6.0/NumbersUtility.deps.json
+/media/tathurma/easystore/Code/NET6/NumbersUtility/bin/Debug/net6.0/NumbersUtility.runtimeconfig.json
+/media/tathurma/easystore/Code/NET6/NumbersUtility/bin/Debug/net6.0/NumbersUtility.dll
+/media/tathurma/easystore/Code/NET6/NumbersUtility/bin/Debug/net6.0/ref/NumbersUtility.dll
+/media/tathurma/easystore/Code/NET6/NumbersUtility/bin/Debug/net6.0/NumbersUtility.pdb
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/NumbersUtility.csproj.AssemblyReference.cache
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/NumbersUtility.GeneratedMSBuildEditorConfig.editorconfig
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/NumbersUtility.AssemblyInfoInputs.cache
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/NumbersUtility.AssemblyInfo.cs
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/NumbersUtility.csproj.CoreCompileInputs.cache
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/NumbersUtility.dll
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/ref/NumbersUtility.dll
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/NumbersUtility.pdb
+/media/tathurma/easystore/Code/NET6/NumbersUtility/obj/Debug/net6.0/NumbersUtility.genruntimeconfig.cache
