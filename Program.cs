@@ -11,7 +11,7 @@ namespace NumbersUtility
             //Console.WriteLine($"Your result = {PiToDecimal()}");
 
             //Method 2. NumToDecimal
-            Console.WriteLine($"Your result = {NumToDecimalPoint()}");
+            //Console.WriteLine($"Your result = {NumToDecimalPoint()}");
         }
 
         public static StringBuilder PiToDecimal() {
@@ -44,9 +44,9 @@ namespace NumbersUtility
         }
         
         public static StringBuilder NumToDecimalPoint(){
+        //Find e to the Nth Digit
             try
             {
-                //Find e to the Nth Digit
                 StringBuilder result = new StringBuilder();
 
                 Console.Write("Please enter a number with decimals: ");
@@ -86,5 +86,21 @@ namespace NumbersUtility
                 return new StringBuilder("Unable to calculate!");
             }
         }
+    
+        public static StringBuilder Fibbonaci(){
+        //Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+            try
+            {
+
+               return new StringBuilder(); 
+            }
+            catch (System.Exception)
+            {
+                
+                return new StringBuilder(); 
+            }
+        }
+
+
     }
 }
